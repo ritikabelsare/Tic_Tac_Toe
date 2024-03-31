@@ -58,8 +58,8 @@ body{
     font-size: 1.2rem;
     border-radius: 1rem;
     background-color: #191913;
-    color:white;
-    border:none;
+    color: white;
+    border: none;
 }
 
 #msg{
@@ -82,7 +82,7 @@ body{
 .hide{
     display: none;
 }
-
+/*
 @media(min-width:200px) and (max-width:800px)
 {
     .box{
@@ -99,4 +99,4 @@ body{
 
     }
 
-}
+}*/
